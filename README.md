@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Kai Xing
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-Xing&theme=dark&layout=compact)
+- 👋 Hi, I’m Kai Xing 邢凯
+- 
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-Xing" /> </div>
