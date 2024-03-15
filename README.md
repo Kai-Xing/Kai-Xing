@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Kai-Xing&show_icons=true&theme=dark&count_private=true)
+- 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-Xing&theme=dark&layout=compact)
 
 <!---
 Kai-Xing/Kai-Xing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
